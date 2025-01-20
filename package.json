@@ -1,0 +1,33 @@
+{
+  "name": "aia-guanwang",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fontsource/lexend": "^5.1.2",
+    "amfe-flexible": "^2.2.1",
+    "axios": "^1.7.9",
+    "element-plus": "^2.9.1",
+    "postcss-px-to-viewport": "^1.1.1",
+    "postcss-pxtorem": "^6.1.0",
+    "swiper": "^11.2.1",
+    "vue": "^3.5.13",
+    "vue-router": "4",
+    "vue-youtube": "^1.4.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "vite": "^6.0.5"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    }
+  }
+}

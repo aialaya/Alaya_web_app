@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 219 74">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#_未命名的渐变_18-2);
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: url(#_未命名的渐变_18);
+      }
+    </style>
+    <linearGradient id="_未命名的渐变_18" data-name="未命名的渐变 18" x1="113.63" y1="-13.53" x2="108.78" y2="25.84" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5dc759"/>
+      <stop offset="1" stop-color="#45e5a8"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_18-2" data-name="未命名的渐变 18" x1="113.63" y1="8.47" x2="108.78" y2="47.84" gradientTransform="translate(219 96) rotate(-180)" xlink:href="#_未命名的渐变_18"/>
+  </defs>
+  <g id="_图层_1-2" data-name="图层 1">
+    <g>
+      <polygon class="cls-2" points="219 26 0 26 0 14 167 14 167 0 219 26"/>
+      <polygon class="cls-1" points="0 48 219 48 219 60 52 60 52 74 0 48"/>
+    </g>
+  </g>
+</svg>
