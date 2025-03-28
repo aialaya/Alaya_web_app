@@ -15,8 +15,9 @@ Alaya supports email registration and login to maximise accessibility for first-
 Alaya utilises a dual-NFT design consisting of Alaya NFTs and Medallion NFTs. The dual-NFT design is implemented to distinguish gamified user incentives and personal achievements from system labelling and optimisation features.
 
 #### Home and Task view
-
-![home](docs/img/home.png)    ![task](docs/img/task.png)
+<div>
+<img src="docs/img/home.png"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><img src="docs/img/task.png">
+</div>
 
 -  Alaya NFTs are distributed to users for free upon registration, Alaya NFTs are required for users to complete training tasks, obtain task rewards, and participate in community events. They can be understood as the “player character” of Alaya’s gamified UI and can be freely traded.
 
